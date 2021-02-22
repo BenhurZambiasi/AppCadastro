@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Benhur Silveira",
+      "email": "benhur.rock@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Benhur Zambiasi",
+      "email": "benhur_zambiasi@hotmail.com"
+    },
+    {
+      "name": "teste2",
+      "email": "teste@gmail.com",
+      "id": 3
+    }
+  ]
+}
